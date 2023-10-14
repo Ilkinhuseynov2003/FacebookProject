@@ -1,0 +1,49 @@
+.container {
+    width: 50%;
+    margin: 20% auto;
+}
+.logo {
+    float: left;
+    margin-right: 60%;
+}
+.login {
+    float: right;
+    width: 50%;
+    margin-left: 60%;
+}
+.giris {
+    color: white;
+    background-color: #1877f2;
+    font-size: 20px;
+    border-radius: 6px;
+    padding: 0 16px;
+    border: none;
+    width: 364px;
+    height: 48px;
+ 
+}
+ .container .login a{
+    text-decoration: none;
+    margin-top: 20%;
+}
+.container .login .new{
+    color: white;
+    background-color: #42b72a;
+    width: 166px;
+    height: 48px;
+}
+.container .text {
+    width: 365px;
+    height: 51px;
+}
+.container .password {
+    width: 365px;
+    height: 51px;
+}
+.container .code {
+    width: 135px;
+    height: 16px;
+}
+.clear {
+    clear:both;
+}
